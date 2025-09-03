@@ -63,4 +63,9 @@ Type your messages, and Janexus Comrade will respond with friendly conversation,
 ---
 
 ## **👤 Author**
-**Janexus** – Passionate about AI 🤖 | GitHub: [Janexus](https://github.com/)
+👤 Janexus
+✨ Passionate about AI, building innovative and beginner-friendly projects.
+💻 Loves exploring AI, chatbots, and fun interactive tools.
+🌐 Connect with me on GitHub: Janexus
+
+🚀 Always eager to learn, create, and share AI magic with the world! 🌟
